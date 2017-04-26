@@ -1,0 +1,41 @@
+.calculator {
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+  margin: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.cal-view {
+  border: 1px solid red;
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.cal-process-view {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  height: 20px;
+}
+
+.cal-input-view {
+  border: 1px solid black;
+  height: 30px;
+}
+
+.cal-keypad {
+  height: 70%;
+  border: 1px solid red;
+}
+
+.cal-key-btn {
+  width: 25%;
+  height: 20%;
+  background-color: #f2f2f2;
+  border: 1px solid black;
+}
+
+.cal-key-btn:hover {
+  background-color: #dadada;
+}
